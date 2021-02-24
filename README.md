@@ -5,7 +5,7 @@ Gracias por visitar el perfil ✨ Israel Lopez ✨.
 
 Estudiante del tecnologico:
 
-- 🔭 Actualmente colabora en primewheel
+- 🔭 Actualmente colaborando en primewheel
 - 🖥 He realizado varios proyectos en el area de sistemas
 - 📲 Me he manejado mas en el area de bases de datos
 - 💬 Pregunta me quiza pueda ayudarte.
