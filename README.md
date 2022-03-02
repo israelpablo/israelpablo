@@ -5,11 +5,11 @@ Gracias por visitar el perfil ✨ Israel Lopez ✨.
 
 Estudiante del tecnologico:
 
-- 🔭 Actualmente colaborando en primewheel
+- 🔭 Actualmente colaborando en Prime Wheel Mexico
 - 🖥 He realizado varios proyectos en el area de sistemas
-- 📲 Me he manejado mas en el area de bases de datos
-- 💬 Pregunta me quiza pueda ayudarte.
+- 📲 Me he especializado mas en la parte de bases de datos
+- 💬 Pregunta me, quiza pueda ayudarte.
 - 📫 Puedes comunicarte conmigo por medio de correo
-- 😄 Y con Github Classroom apoyar al estudiante para ser efectivo en lo requerido para producir resultados al momento y diversificar en los sistemas desktop, cloud computing y embedded 
+- 😄 Actualmente ya comprendo mejor el servicio de github
 - ⚡ Sabias: Soy alumno actualmente en la carrera de sistemas en el tecnologico!
 
